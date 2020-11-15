@@ -4,5 +4,5 @@
  */
 
 module.exports = () => {
-
+    console.log(`Bot connected`);
 };
